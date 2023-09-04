@@ -24,7 +24,7 @@ This is a sample application that you can use to follow along with the tutorial 
 3. Open *DotNetCoreSqlDb.sln* in Visual Studio.
 4. Start debugging.
 
-### Run from command line
+### Run from command line test
 
 Run the following commands in a terminal:
 
